@@ -7,3 +7,4 @@ I'm going to learn some of the most valuable skills in the software industry: Sc
 Ref. Links:
 
 - http://trimc-devops.blogspot.com/2015/02/installing-scala-on-ubuntu.html
+- http://alvinalexander.com/scala/how-to-compile-scala-source-code-scalac-examples
